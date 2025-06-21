@@ -1,4 +1,4 @@
-/*
+/* 
  First name: Carlos
  Last name: Stevenson
  This year: 1965
@@ -8,6 +8,20 @@
 */
 
 // Add your code right below, good luck!
+let firstName = `Carlos`,
+    lastName = `Stevenson`,
+    thisYear = 1965,
+    birthYear = 1947;
+
+let greeting = `Hello! My name is ${firstName} ${lastName} and I am ${thisYear - birthYear} years old.`;
+
+let fullName = `${firstName} ${lastName}`,
+    age = thisYear - birthYear;
+
+
+
+
+
 
 
 

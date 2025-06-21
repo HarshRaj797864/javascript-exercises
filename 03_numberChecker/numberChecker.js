@@ -1,5 +1,5 @@
-function numberChecker(number) {
-  if (number === 6) {
+function numberChecker(number) { 
+  if (number >= 10) {
     return true;
   } else {
     return false;
