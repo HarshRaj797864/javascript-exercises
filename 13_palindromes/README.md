@@ -6,7 +6,7 @@ A palindrome is a string that is spelled the same both forwards and backwards, u
 
 ### some palindromes:
   - A car, a man, a maraca.
-  - Rats live on no evil star.
+  - Rats live on no ev il star.
   - Lid off a daffodil.
   - Animal loots foliated detail of stool lamina.
   - A nut for a jar of tuna.
